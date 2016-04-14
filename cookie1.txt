@@ -1,4 +1,0 @@
-#LWP-Cookies-2.0
-Set-Cookie3: IPLOC=CN3301; path="/"; domain=".sogou.com"; path_spec; domain_dot; expires="2017-02-16 06:31:56Z"; version=0
-Set-Cookie3: SUID=B2A0E07A6A20900A0000000056C413DC; path="/"; domain=".weixin.sogou.com"; path_spec; expires="2036-02-12 06:31:56Z"; version=0
-Set-Cookie3: ABTEST="6|1455690716|v1"; path="/"; domain="weixin.sogou.com"; path_spec; expires="2016-03-18 06:31:56Z"; version=0
