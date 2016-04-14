@@ -1,0 +1,551 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+    
+<title>ascottchina.com的网站alexa排名、流量、访问量、页面浏览量查询 - alexa网站排名查询</title>
+<meta name="Keywords" content="ascottchina.com,ascottchina.com的alexa排名,ascottchina.com网站流量查询，alexa网站排名"/>
+<meta name="Description" content="alexa网站排名查询专业提供ascottchina.com的alexa排名查询、网站流量查询、网站访问量查询、网站页面浏览量查询服务。"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Expires" content="0"/> 
+<meta http-equiv="Cache-Control" content="no-cache"/> 
+<meta http-equiv="Pragma" content="no-cache"/>
+<link rel="stylesheet" type="text/css" href="css/all-base.css"/>
+<link rel="stylesheet" type="text/css" href="css/publicstyle.css"/>
+<link rel="stylesheet" type="text/css" href="css/alexa_css.css"/>
+<script type="text/javascript" src="/js/jquery-1.11.3.min.js"></script>
+<script type="text/javascript" src="/js/jq-public.js"></script>
+<script language="javascript" type="text/javascript">
+    var gzType = "0";
+    $(function () {
+        document.onkeydown = function (event) {
+            var e = event || window.event || arguments.callee.caller.arguments[0];
+            if (e && e.keyCode == 13) {
+                MoreSearch();
+                return false;
+            }
+        };
+
+    });
+</script>
+
+</head>
+<body style="height:100%" id="content">
+    <form name="form" method="post" action="alexa_more.aspx?domain=ascottchina.com" id="form">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQ4MjM3NjA2OWRkzGBAUpHhX2+ksM9bMj7us7up2t3SJflTc6t2y2WlUWg=" />
+</div>
+
+     
+<div class="ww100 mb10">
+    <div class="ToolTop bor-b1s clearfix">
+        <div class="wrapper02 SimSun">
+        
+            <ul class="TnavList fl" id="menu">
+                <li><a href="http://www.chinaz.com" class="Tnone"><span>站长之家</span></a></li>
+                <li><a href="http://bbs.chinaz.com" target="_blank" class="Tnone"><span>站长论坛</span><i class="corner icon"></i></a>
+                    <p class="Tntwo" style="display: none;">     
+                        <a href="http://bbs.chinaz.com/forum-51-1.html" target="_blank">站长俱乐部</a>
+                        <a href="http://bbs.chinaz.com/forum-140-1.html" target="_blank">站长问答</a>
+                        <a href="http://bbs.chinaz.com/forum-165-1.html" target="_blank">网站建设资源</a>
+                        <a href="http://bbs.chinaz.com/forum-167-1.html" target="_blank">站长交易赚钱</a> 
+                    </p>
+                </li>
+                <li><a href="http://tool.chinaz.com" target="_blank" class="Tnone"><span>站长工具</span><i class="corner icon"></i></a>
+                    <p class="Tntwo" style="display: none;"> 
+                        <a href="http://alexa.chinaz.com" target="_blank">ALEXA排名查询</a> 
+                        <a href="http://rank.chinaz.com" target="_blank">百度权重查询</a> 
+                        <a href="http://seo.chinaz.com" target="_blank">SEO概况查询</a> 
+                        <a href="http://link.chinaz.com" target="_blank">友情链接查询</a> 
+                        <a href="http://pr.chinaz.com" target="_blank">Google PR查询</a> 
+                        <a href="http://whois.chinaz.com" target="_blank">Whois信息查询</a> 
+                        <a href="http://icp.chinaz.com" target="_blank">域名备案查询</a> 
+                    </p>
+                </li>
+                <li><a href="http://sc.chinaz.com" target="_blank" class="Tnone"><span>站长素材</span><i class="corner icon"></i></a>
+                    <p class="Tntwo" style="display: none;">
+                        <a href="http://font.chinaz.com/" target="_blank">字体下载</a> 
+                        <a href="http://desk.chinaz.com/" target="_blank">高清壁纸</a> 
+                        <a href="http://sc.chinaz.com/jianli/" target="_blank">简历模板</a> 
+                        <a href="http://sc.chinaz.com/tupian/" target="_blank">高清图片</a> 
+                        <a href="http://sc.chinaz.com/shiliang/" target="_blank">矢量素材</a> 
+                        <a href="http://sc.chinaz.com/ppt/" target="_blank">PPT模板</a> 
+                        <a href="http://sc.chinaz.com/psd/" target="_blank">PSD素材</a> 
+                    </p>
+                </li>
+                <li><a href="http://down.chinaz.com" target="_blank" class="Tnone"><span>源码下载</span></a></li>
+                <li><a href="http://top.chinaz.com" target="_blank" class="Tnone"><span>网站排行</span><i class="corner icon"></i></a>
+                    <p class="Tntwo" style="display: none;">     
+                        <a href="http://top.chinaz.com/hangye/" target="_blank">行业网站排名</a>
+                        <a href="http://top.chinaz.com/diqu/" target="_blank">地区网站排名</a>
+                    </p>
+                </li> 
+            </ul>
+        
+        	<div class="fr TrigW" id="chinaz_topbar"><div class="userbar"><a href="http://my.chinaz.com/accounts/login.html?returnurl=http://whois.chinaz.com/reverse" target="_top">立即登录</a>	<a href="http://my.chinaz.com/accounts/register.html?returnurl=http%3A%2F%2Fmy.chinaz.com%2Faccounts%2Flogin.html" )="">注册新帐号</a></div></div>
+ 
+        
+        </div>
+    </div>
+    <div class="ToolHead">
+        <div class="wrapper clearfix">
+        	<h1 class="ToolLogo fl"><a href="http://alexa.chinaz.com"><img src="/images/logo-alexa.png" ></a></h1>
+            <div class="fr topTsRight ml10" id="topTxt"></div>
+        	<div class="fr topTsCenter" id="topImg"><script src="http://stats.chinaz.com/tool_img/alexa_top.js" language="javascript" type="text/javascript"></script></div>
+        </div>
+    </div>
+    <div class="ToolNavbar" id="ToolNav">
+    <div class="navbar-bg"><div class="navbar-bg-top"><div class="navbar-content pr">
+         <div class="navbar-content-box">
+              <div class="wrapper02 clearfix" id="Navbar">
+                <ul class="w114"><li class="dt"><a href="http://alexa.chinaz.com">首页</a></li></ul>
+                <ul class="both"><li class="dt"><a href="/Country/index.html" target="_blank">地区</a></li>
+                  <li class="dd">
+                    <a  href="/Country/index_CN.html" target="_blank">中国</a>
+                    <a  href="/Country/index_US.html" target="_blank">美国</a>
+                    <a  href="/Country/index_FR.html" target="_blank">法国</a>
+                    <a  href="/Country/index_FR.html" target="_blank">英国</a>
+                    <a  href="/Country/index_DE.html" target="_blank">德国</a>
+                    <a  href="/Country/index_JP.html" target="_blank">日本</a>
+                    <a  href="/Country/index_KR.html" target="_blank">韩国</a>
+                    <a  href="/Country/index_SE.html" target="_blank">瑞典</a>
+                    <a  href="/Country/index_CH.html" target="_blank">瑞士</a>
+                    <a  href="/Country/index_HK.html" target="_blank">香港</a>
+                    <a  href="/Country/index_MO.html" target="_blank">澳门</a>
+                    <a  href="/Country/index_TW.html" target="_blank">台湾</a>
+                    <a  href="/Country/index_TH.html" target="_blank">泰国</a>
+                    <a  href="/Country/index_BH.html" target="_blank">巴林</a>
+                    <a  href="/Country/index_BR.html" target="_blank">巴西</a>
+                    <a  href="/Country/index_CL.html" target="_blank">智利</a>
+                    <a  href="/Country/index_DK.html" target="_blank">丹麦</a>
+                    <a  href="/Country/index_EG.html" target="_blank">埃及</a>
+                    <a  href="/Country/index_GH.html" target="_blank">加纳</a>
+                    <a  href="/Country/index_GR.html" target="_blank">希腊</a>
+                    <a  href="/Country/index_IS.html" target="_blank">冰岛</a>
+                    <a  href="/Country/index_IN.html" target="_blank">印度</a>
+                    <a  href="/Country/index_FI.html" target="_blank">芬兰</a>
+                    <a  href="/Country/index_JO.html" target="_blank">约旦</a>
+                    <a  href="/Country/index_MM.html" target="_blank">缅甸</a>
+                  </li>
+                </ul>
+                <ul class="odd"><li class="dt"><a href="/Category/index.html" target="_blank">分类</a></li>
+                  <li class="dd">
+                    <a href="/Category/index_Arts.html" target="_blank">艺术</a>
+                    <a href="/Category/index_Business.html" target="_blank">商业</a>
+                    <a href="/Category/index_Computers.html" target="_blank">计算机</a>
+                    <a href="/Category/index_Games.html" target="_blank">游戏</a>
+                    <a href="/Category/index_Health.html" target="_blank">健康</a>
+                    <a href="/Category/index_Home.html" target="_blank">家</a>
+                    <a href="/Category/index_Kids_and_Teens.html" target="_blank">青少年</a>
+                    <a href="/Category/index_News.html" target="_blank">新闻</a>
+                    <a href="/Category/index_Recreation.html" target="_blank">娱乐</a>
+                    <a href="/Category/index_Reference.html" target="_blank">参考</a>
+                    <a href="/Category/index_Regional.html" target="_blank">地区性</a>
+                    <a href="/Category/index_Science.html" target="_blank">科学</a>
+                    <a href="/Category/index_Shopping.html" target="_blank">购物</a>
+                    <a href="/Category/index_Society.html" target="_blank">社会</a>
+                    <a href="/Category/index_Sports.html" target="_blank">体育</a>
+                  </li>
+                </ul>
+                <ul class="oned"><li class="dt"><a href="/Language/index.html" target="_blank">排行榜</a></li>
+                  <li class="dd">
+                    <a href="/Global/index.html" target="_blank">全球排行榜</a>
+                    <a href="http://top.chinaz.com"  target="_blank" target="_blank">中文排行榜</a>
+                  </li>
+                </ul>
+              </div>
+          </div>
+        </div></div></div> 
+  </div>
+    <div class="wrapper02 ptb10 ToolsWrapIM clearfix" id="navAfter">
+    </div>       
+    <div class="Map-navbar wrapper mt10 clearfix">
+        <div class="Mnav-left fl">当前位置： <a href="http://tool.chinaz.com/">站长工具</a> > <a href="http://alexa.chinaz.com">alexa排名</a> > <a href="http://alexa.chinaz.com/?domain=ascottchina.com">ascottchina.com网站alexa排名</a></div>
+    </div>
+</div>
+ <div class="row_box wrapper mt18 clearfix">
+    <div class="row_banner SimSun" id="searchAfter"> </div>
+  </div>
+<div class="row_box wrapper  mt10 clearfix bgfff">
+<div class="row_seach_box">
+<span class="ss_left"><input type="text" url="true"  name="DomainName" id="DomainName"  value="ascottchina.com" /></span>
+<span class="ss_right"><input type="button" id="btnSearch" value="查看分析" class=""  onclick="AlexaSearch();" /> </span>
+<span class="ss_refresh"><input id="ckUpdtime" name="ckUpdtime"  class="WebCache" type="checkbox" value="" />
+<label class=" WebCache">更新网页缓存</label></span>
+</div>
+<div class="row_title clearfix"><h4>网站<em>www.ascottchina.com</em>全球综合排名第<em> 715601 </em>位。<span id="topRankedSpan"></span></h4></div>
+<div class="row_info">
+    
+<div class="info_left">
+<div class="w210" id="middleLeftImg"></div>
+</div>
+<div class="info_right">
+<ul class="info_detail">
+<li class="bgfaf"><span class="tit">站点名称：</span>ascottchina.com/</li>
+<li class="bgfaf"><span class="tit">网站站长：</span> 不祥</li>
+<li class="bgfaf"><span class="tit">电子信箱：</span>不祥</li>
+<li><span class="tit">下期排名：</span>715,601</li>
+<li><span class="tit">收录日期：</span>没有记录</li>
+<li><span class="tit">所属国家：</span>不详</li>
+<li class="bgfaf"><span class="tit">编码方式：</span>不详</li>
+<li class="bgfaf"><span class="tit">访问速度：</span>没有记录 Ms / 没有记录分</li>
+<li class="bgfaf"><span class="tit">成人内容：</span>没有记录</li>
+<li><span class="tit">反向链接：</span>35</li>
+<li><span class="tit">联系电话：</span>不祥</li>
+<li><span class="tit">所属目录：</span>该站未被亚马逊分类目录收录</li>
+<li class="bgfaf"><span class="tit">详细地址：</span>不详</li>
+<li class="bgfaf" style="width:66%"><span class="tit">网站简介：</span>该站点还没有向ALEXA提交任何介绍信息。</li>
+
+<li class="clear info_nav">
+            <a href="http://tool.chinaz.com/?q=ascottchina.com" target="_blank" class="toollink col-blue02">站长工具</a>：
+            <a href="http://seo.chinaz.com/?host=ascottchina.com" class="col-green02" target="_blank">SEO查询</a>
+            <a href="http://icp.chinaz.com/?s=ascottchina.com" class="col-blue02" target="_blank">网站备案查询</a>
+            <a href="http://ip.chinaz.com/?IP=ascottchina.com" class="col-green02" target="_blank">网站IP查询</a>
+            <a href="http://whois.chinaz.com/?DomainName=ascottchina.com&ws=" class="col-blue02" target="_blank">whois查询</a>
+            <a href="http://link.chinaz.com/?wd=ascottchina.com" class="col-green02" target="_blank">友链查询</a>
+            <a href="http://outlink.chinaz.com/?h=ascottchina.com" class="col-blue02" target="_blank">反链查询</a>
+            <a href="http://pr.chinaz.com/?PRAddress=ascottchina.com" class="col-green02" target="_blank"> pr查询</a>
+        </li>
+</ul>
+</div>
+</div>                                                                                                             
+</div>
+<div class="row_box wrapper mt10 clearfix">
+<div class="row_banner SimSun" id="mainAfter">
+</div>
+</div>
+<div class="row_box wrapper mt10 bgfff pt10 pd10  clearfix">
+<div class="row_title clearfix"><h4>子站点被访问比例/人均页面浏览量<i>
+SEO查询提供网站优化、关键词排名、关键词优化等SEO工具，快速诊断网站seo排名状况,给出网站优化建议,提升网站关键词优化排名</i></h4></div>
+<div class="mt1 subOlist">
+<ul class="result_nuber bg566">
+<li>被访问网址 [ 0 个]</li>
+<li>近月网站访问比例</li>
+<li>近月页面访问比例</li>
+<li>人均页面浏览量</li>
+</ul>
+
+<ul class="result_nuber">
+<li>--</li>
+<li>--</li>
+<li>--</li>
+<li>--</li>
+</ul>
+<ul class="result_nuber">
+<li>--</li>
+<li>--</li>
+<li>--</li>
+<li>--</li>
+</ul>
+
+
+</div>
+
+</div>
+<div class="row_box wrapper mt10 bgfff pt10 pd10  clearfix">
+<div class="row_title clearfix"><h4>流量排名情况<i class="fr10">[<a href="/alexa_history.aspx?domain=ascottchina.com" target="_blank">历史数据查询</a>]</i></h4></div>
+<div class="mt1">
+
+<ul class="result_top bg566">
+<li>当日排名</li>
+<li>变化趋势</li>
+<li>一周平均排名</li>
+<li>排名变化趋势</li>
+<li>一月平均排名</li>
+<li>排名变化趋势</li>
+<li>三月平均排名</li>
+<li>排名变化趋势</li>
+</ul>
+<ul class="result_top">
+<li>--</li>
+<li>--</li>
+<li>1,707,962</li>
+<li><img src="/images/Up_arrow.gif" border="0"><font color="#329A02">3787931</font></li>
+<li>4,161,375</li>
+<li><img src="/images/Down_arrow.gif" border="0"><font color="#FF0000">3648323</font></li>
+<li>715,601</li>
+<li><img src="/images/Up_arrow.gif" border="0"><font color="#329A02">80390</font></li>
+
+</ul>
+</div>
+</div>
+<div class="row_box wrapper mt10 bgfff pt10 pd10  clearfix">
+<div class="row_title clearfix"><h4>到访量排名情况<i></i></h4></div>
+<div class="mt1">
+<ul class="result_top bg566">
+<li>当日排名</li>
+<li>变化趋势</li>
+<li>一周平均排名</li>
+<li>排名变化趋势</li>
+<li>一月平均排名</li>
+<li>排名变化趋势</li>
+<li>三月平均排名</li>
+<li>排名变化趋势</li>
+</ul>
+<ul class="result_top">
+<li>--</li>
+<li>--</li>
+<li>1,722,017</li>
+<li><img src="/images/Up_arrow.gif" border="0"><font color="#329A02">3533681</font></li>
+<li>4,164,118</li>
+<li><img src="/images/Down_arrow.gif" border="0"><font color="#FF0000">3635644</font></li>
+<li>754,738</li>
+<li><img src="/images/Up_arrow.gif" border="0"><font color="#329A02">121567</font></li>
+
+</ul>
+</div>
+</div>
+<div class="wrapper02 clearfix mt10" id="centerImg">
+</div>
+<div class="row_box wrapper mt10 bgfff pt10   clearfix">
+<div class="row_title clearfix"><h4>每百万人中访问人数<i></i></h4></div>
+<div class="mt1">
+<ul class="result_top bg566">
+<li>当日数据</li>
+<li>变化趋势</li>
+<li>一周平均</li>
+<li>变化趋势</li>
+<li>一月平均</li>
+<li>变化趋势</li>
+<li>三月平均</li>
+<li>变化趋势</li>
+</ul>
+<ul class="result_top">
+<li>--</li>
+<li>--</li>
+<li></li>
+<li><img src="/images/Down_arrow.gif" border="0"><font color="#FF0000">600%</font></li>
+<li></li>
+<li><img src="/images/Up_arrow.gif" border="0"><font color="#329A02">92.08%</font></li>
+<li>1</li>
+<li><img src="/images/Up_arrow.gif" border="0"><font color="#329A02">2.33%</font></li>
+
+</ul>
+</div>
+</div>
+<div class="row_box wrapper mt10 bgfff pt10 pd10  clearfix">
+<div class="row_title clearfix"><h4>每百万人访问页面中访问本站的页面数<i></i></h4></div>
+<div class="mt1">
+<ul class="result_top bg566">
+<li>当日数据</li>
+<li>变化趋势</li>
+<li>一周平均</li>
+<li>变化趋势</li>
+<li>一月平均</li>
+<li>变化趋势</li>
+<li>三月平均</li>
+<li>变化趋势</li>
+</ul>
+<ul class="result_top">
+<li>--</li>
+<li>--</li>
+<li></li>
+<li><img src="/images/Down_arrow.gif" border="0"><font color="#FF0000">1200%</font></li>
+<li></li>
+<li><img src="/images/Up_arrow.gif" border="0"><font color="#329A02">95.14%</font></li>
+<li></li>
+<li><img src="/images/Up_arrow.gif" border="0"><font color="#329A02">17.54%</font></li>
+
+</ul>
+</div>
+</div>
+<div class="row_box wrapper mt10 bgfff pt10   clearfix">
+<div class="row_title clearfix"><h4>页面访问量排名<i></i></h4></div>
+<div class="mt1">
+<ul class="result_top bg566">
+<li>当日排名</li>
+<li>变化趋势</li>
+<li>一周平均排名</li>
+<li>排名变化趋势</li>
+<li>一月平均排名</li>
+<li>排名变化趋势</li>
+<li>三月平均排名</li>
+<li>排名变化趋势</li>
+</ul>
+<ul class="result_top">
+<li>--</li>
+<li>--</li>
+<li>1,872,250</li>
+<li><img src="/images/Up_arrow.gif" border="0"><font color="#329A02">3625188</font></li>
+<li>4,541,377</li>
+<li>3963518</li>
+<li>749,939</li>
+<li><img src="/images/Up_arrow.gif" border="0"><font color="#329A02">7945</font></li>
+
+</ul>
+</div>
+</div>
+<div class="row_box wrapper mt10 bgfff pt10 pd10  clearfix">
+<div class="row_title clearfix"><h4>平均每个访问者浏览的页面数<i></i></h4></div>
+<div class="mt1">
+<ul class="result_top bg566">
+<li>当日数据</li>
+<li>变化趋势</li>
+<li>一周平均</li>
+<li>变化趋势</li>
+<li>一月平均</li>
+<li>变化趋势</li>
+<li>三月平均</li>
+<li>变化趋势</li>
+</ul>
+<ul class="result_top">
+<li>--</li>
+<li>--</li>
+<li>2</li>
+<li><img src="/images/Down_arrow.gif" border="0"><font color="#FF0000">100%</font></li>
+<li>2</li>
+<li><img src="/images/Up_arrow.gif" border="0"><font color="#329A02">39.45%</font></li>
+<li>3</li>
+<li><img src="/images/Up_arrow.gif" border="0"><font color="#329A02">15.61%</font></li>
+
+</ul>
+</div>
+</div>
+<div class="wrapper02 ptb10 ToolsWrapIM clearfix" id="buttomImg">
+</div>
+<div class="row_box wrapper mt10 bgfff pt10 pd10  clearfix">
+<div class="row_title clearfix"><h4>根据 网站排名 统计数据估算网站 IP & PV 值，以下数据仅做参考之用、根据网站用户类型和比例不同会产生不同误差率</h4></div>
+<div class="mt1">
+<ul class="result_half bg566">
+<li>日均 IP 访问量[一周平均]</li>
+<li>日均 PV 浏览量[一周平均]</li>
+</ul>
+<ul class="result_half">
+<li>≈240</li>
+<li>≈480</li>
+
+</ul>
+</div>
+</div>
+<div class="row_box mt10 wrapper bgfff pt10   clearfix">
+<div class="row_title clearfix"><h4>网站排名 统计的 ascottchina.com 国家/地区排名、访问比例 列表</h4></div>
+<div class="mt1">
+<ul class="result_state bg566">
+<li>国家/地区名称 [ 0 个] </li>
+<li>国家/地区代码</li>
+<li>国家/地区排名</li>
+<li>网站访问比例</li>
+<li>页面浏览比例</li>
+</ul>
+<ul class="result_state">
+<li>--</li>
+<li>--</li>
+<li>--</li>
+<li>--</li>
+<li>--</li>
+</ul>
+
+</div>
+</div>
+<div class="row_box wrapper bgfff mt10 clearfix" id="footerImg"></div>
+ <div class="ToolAbout wrapper03 mt10">
+    <div class="clearfix">
+      <h4 class="HeadH4 YaHei fz16 col-blue02 fwnone fl">Alexa简介</h4>
+      <div class="fr fz14" id="toolsIntro"><a class="col-red pr15" target="_blank" href="http://www.jsll.me/">10000来路IP只需8元</a><a class="col-blue" target="_blank" href="http://icp.chinaz.com/provinces">全国各地区ICP备案查询</a></div>
+    </div>
+    <div class="col-gray01 ToolAbCont">
+      <p>提供中文网站alexa排名查询、网站流量查询、网站访问量查询、网站页面浏览量查询服务。</p>
+    </div>
+  </div>
+  <!--siteBar-begin--> 
+   <!--<script type="text/javascript" charset='gb2312' src="http://images.chinaz.com/tool_img/alexa_a.js"></script>-->
+    <script type="text/javascript" charset='gb2312' src="http://stats.chinaz.com/tool_img/alexa_a.js"></script>
+   
+  <div class="wrapper mt10 bor-b1s06 clearfix">
+    <div class="ToFooter fl w24-0"> <a href="javascript:" class="ToCurt">SEO相关</a> <a href="javascript:">其他工具相关</a> </div>
+    <div class="fr lh43 pr10 new_fea"> <a href="http://icp.chinaz.com/" target="_blank">网站备案</a> <a href="http://mobile.chinaz.com/" target="_blank">Wap适配</a> <a href="http://tool.chinaz.com/speedcom.aspx" target="_blank">网站测速PK</a> <a href="http://del.chinaz.com/" target="_blank">过期域名查询</a> <a href="http://tool.chinaz.com/keywordsarea/" target="_blank">关键词异地排名</a> </div>
+  </div>
+  <div class="GMFocusBox auto">
+    <div class="StabShow">
+      <div class="tFull">
+        <div class="GMFimglist02 pr">
+          <div class="Fotline"></div>
+          <ul class="siteBar wrapper clearfix">
+            <li class="fl bor-r1s">
+              <h5 class="fz14 fwnone col-blue02 pb5">域名类</h5>
+              <p class="plist"> <a href="http://whois.chinaz.com">WHOIS查询</a> <a href="http://tool.chinaz.com/dns/">DNS查询</a> <a href="http://del.chinaz.com">过期域名查询</a> <a href="http://tool.chinaz.com/nslookup/">NsLookup查询</a> <a href="http://tool.chinaz.com/DomainDel/">域名删除时间</a> <a href="http://icp.chinaz.com">备案查询</a> <a href="http://del.chinaz.com/type">删除域名归档</a> <a href="http://icp.chinaz.com/searchs">备案批量查询</a> </p>
+            </li>
+            <li class="fl bor-r1s">
+              <h5 class="fz14 fwnone col-blue02 pb5">IP类</h5>
+              <p class="plist"> <a href="http://ip.chinaz.com">IP 查询</a> <a href="http://ip.chinaz.com/ipbatch">IP 批量</a> <a href="http://tool.chinaz.com/Same/">同IP网站查询</a> <a href="http://tool.chinaz.com/ipwhois/">IP WHOIS查询</a> <a href="http://tool.chinaz.com/port/">端口扫描</a> </p>
+            </li>
+            <li class="fl bor-r1s">
+              <h5 class="fz14 fwnone col-blue02 pb5">百度相关</h5>
+              <p class="plist"> <a href="http://tool.chinaz.com/keywords">关键词排名</a> <a href="http://tool.chinaz.com/baidu/words.aspx">关键词挖掘</a> <a href="http://outlink.chinaz.com/">反链查询</a> <a href="http://rank.chinaz.com">权重查询</a> <a href="http://tool.chinaz.com/baidu/">收录查询</a> <a href="http://tool.chinaz.com/baidu/entry">收录率查询</a> <a href="http://tool.chinaz.com/kwevaluate">关键词优化分析</a> <a href="http://tool.chinaz.com/baidu/metadig.aspx">Meta信息挖掘</a> </p>
+            </li>
+            <li class="fl bor-r1s">
+              <h5 class="fz14 fwnone col-blue02 pb5">测速/监控</h5>
+              <p class="plist"> <a href="http://ping.chinaz.com">PING检测</a> <a href="http://tool.chinaz.com/Tools/webcheck.aspx">网站被黑检测</a> <a href="http://tool.chinaz.com/Tools/webcheck.aspx">国内网站测速</a> <a href="http://tool.chinaz.com/history/">网站历史记录</a> <a href="http://tool.chinaz.com/speedworld.aspx">海外网站测速</a> <a href="http://tool.chinaz.com/history/">SEO历史记录</a> <a href="http://tool.chinaz.com/speedcom.aspx">国内网速对比</a> <a href="http://alexa.chinaz.com/alexa_history.aspx">ALexa历史报告</a> </p>
+            </li>
+            <li class="fl bor-r1s">
+              <h5 class="fz14 fwnone col-blue02 pb5">网页相关</h5>
+              <p class="plist"> <a href="http://tool.chinaz.com/webdetect/">网页检测</a> <a href="http://tool.chinaz.com/webscan">网站安全检测</a> <a href="http://tool.chinaz.com/Links/">死链检测</a> <a href="http://tool.chinaz.com/Gzips/">网站GZIP压缩</a> <a href="http://tool.chinaz.com/pagestatus/">网页状态检测</a> <a href="http://tool.chinaz.com/Tools/Density.aspx">关键词密度分析</a> <a href="http://tool.chinaz.com/Tools/MetaCheck.aspx">META信息查询</a> <a href="http://tool.chinaz.com/Tools/PageCode.aspx">查看网页源代码</a> </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="GMFocusBox auto autohide">
+    <div class="StabShow">
+      <div class="tFull">
+        <div class="GMFimglist02 pr">
+          <div class="Fotline"></div>
+          <ul class="siteBar wrapper clearfix">
+            <li class="fl bor-r1s">
+              <h5 class="fz14 fwnone col-blue02 pb5">配色/在线汉字</h5>
+              <p class="plist"> <a href="http://tool.chinaz.com/Tools/cj">中日传统色彩</a> <a href="http://tool.chinaz.com/Tools/pinyindictionary.aspx">拼音字典</a> <a href="http://tool.chinaz.com/Tools/img">传图识色</a> <a href="http://tool.chinaz.com/Tools/word_spell.aspx">汉字拼音</a> <a href="http://tool.chinaz.com/Tools/web">WEB安全色</a> <a href="http://tool.chinaz.com/Tools/lowercase-uppercase.aspx">英文大小写</a> <a href="http://tool.chinaz.com/Tools/use">网页常用色彩</a> <a href="http://tool.chinaz.com/Tools/gb_big.aspx">繁/简/火星文</a> </p>
+            </li>
+            <li class="fl bor-r1s">
+              <h5 class="fz14 fwnone col-blue02 pb5">WEB相关</h5>
+              <p class="plist"> <a href="http://tool.chinaz.com/htmlcheck.aspx">Html标签检测</a> <a href="http://tool.chinaz.com/Tools/httptest.aspx">Http接口测试</a> <a href="http://tool.chinaz.com/Tools/htmlchar.aspx">Html特殊符号</a> <a href="http://tool.chinaz.com/Tools/regexgenerate">正则表达式生成</a> <a href="http://tool.chinaz.com/Tools/cssdesigner.aspx">Css在线编辑</a> <a href="http://tool.chinaz.com/webscan">网站安全检测</a> <a href="http://tool.chinaz.com/Tools/pagecode.aspx">查看网页源代码</a> <a href="http://tool.chinaz.com/Tools/wordcounter">在线字符统计</a> </p>
+            </li>
+            <li class="fl bor-r1s">
+              <h5 class="fz14 fwnone col-blue02 pb5">加密解密</h5>
+              <p class="plist"> <a href="http://tool.chinaz.com/Tools/md5.aspx">MD5加密</a> <a href="http://tool.chinaz.com/Tools/jscodeconfusion.aspx">Js代码混淆</a> <a href="http://tool.chinaz.com/Tools/escape.aspx">Escape加/解密</a> <a href="http://tool.chinaz.com/Tools/jsformat.aspx">Js/Html格式化</a> <a href="http://tool.chinaz.com/Tools/urlcrypt.aspx">Url16进制</a> <a href="http://tool.chinaz.com/js.aspx">Js混淆压缩</a> <a href="http://tool.chinaz.com/Tools/thunder_flashget.aspx">Url加/解密</a> <a href="http://tool.chinaz.com/Tools/textencrypt.aspx">文字加/解密</a> </p>
+            </li>
+            <li class="fl bor-r1s">
+              <h5 class="fz14 fwnone col-blue02 pb5">单位换算</h5>
+              <p class="plist"> <a href="http://tool.chinaz.com/Tools/angle">角度换算</a> <a href="http://tool.chinaz.com/Tools/time">时间换算</a> <a href="http://tool.chinaz.com/Tools/heat">热量换算</a> <a href="http://tool.chinaz.com/Tools/length">长度换算</a> <a href="http://tool.chinaz.com/Tools/area">面积换算</a> <a href="http://tool.chinaz.com/Tools/calculator">计算器</a> <a href="http://tool.chinaz.com/Tools/datastore">数据存储</a> <a href="http://tool.chinaz.com/Tools/subnetmask">子网掩码</a> </p>
+            </li>
+            <li class="fl">
+              <h5 class="fz14 fwnone col-blue02 pb5">编码转换</h5>
+              <p class="plist"> <a href="http://tool.chinaz.com/Tools/unicode.aspx">Unicode</a> <a href="http://tool.chinaz.com/Tools/html_ubb.aspx">Html/UBB</a> <a href="http://tool.chinaz.com/Tools/unixtime.aspx">Unix时间戳</a> <a href="http://tool.chinaz.com/Tools/urlencode.aspx">UrlEncode</a> <a href="http://tool.chinaz.com/Tools/native_ascii.aspx">NATIVE/ASCII</a> <a href="http://tool.chinaz.com/qrcode">二维码生成</a> <a href="http://tool.chinaz.com/Tools/utf-8.aspx">UTF-8编码</a> <a href="http://tool.chinaz.com/tools/html_js.aspx">HTML/JS转换</a> </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--siteBar-end--> 
+  
+  <!--ToolFooter-begin-->
+  <div class="puw100 h80 bor-t1s mt10 bg-white">
+    <div class="ToolFooter wrapper02">
+      <p class="linkbtn"><a href="http://www.chinaz.com/aboutus/index.html">关于站长之家</a> | <a href="http://www.chinaz.com/aboutus/contact.php">联系我们 </a> | <a href="http://www.chinaz.com/aboutus/ad.html">广告服务</a> | <a href="http://www.chinaz.com/aboutus/link.html">友情链接</a> | <a href="http://www.chinaz.com/aboutus/events.html">网站动态</a> | <a href="http://www.chinaz.com/aboutus/announce.html">版权声明</a> | <a href="http://www.chinaz.com/aboutus/join.html">人才招聘</a> | <a href="http://www.chinaz.com/aboutus/help.html">帮助</a></p>
+      <p class="info"><span>© CopyRight 2002-2016, CHINAZ.COM, Inc.All Rights Reserved.</span><span>闽ICP备08105208号</span><span>增值电信业务经营许可证闽B2-20120007号</span><a href="http://www.wy.cn" rel="nofollow" target="_blank" class="col-gray02">服务器资源由唯一网络赞助</a></p>
+    </div>
+  </div>
+  <!--ToolFooter-end--> 
+  
+  <!--footer-public-end-->
+  <div id="ToolBox">
+    <div id="xhead"></div>
+    <ul id="xlist">
+    </ul>
+    <div id="xfoot"></div>
+  </div>
+  <script type="text/javascript" src="http://my.chinaz.com/js/uc.js" charset="utf-8"></script>
+  <div class="TFloat-item" id="toTop"> <a href="javascript:" id="TFloat" title="回到顶部" style="display:none;"></a> <a href="http://tool.chinaz.com/contact" class="feedback" target="_blank"></a> <a href="javascript:" class="Record" id="record"></a>
+    <div class="Record-show " id="RecordShow" style="display:none;">
+      <div class="Tgroup"> <a href="http://seo.chinaz.com/" target="_blank">SEO查询</a> <a href="http://icp.chinaz.com/" target="_blank">备案查询</a> <a href="http://ip.chinaz.com/" target="_blank">IP查询</a> <a href="http://tool.chinaz.com/kws/" target="_blank">关键词查询</a> <a href="http://link.chinaz.com/" target="_blank">友情链接</a> <a href="http://tool.chinaz.com/map.aspx" class="col-hint" target="_blank">更多工具</a> </div>
+      <div class="arr"></div>
+    </div>
+  </div>
+  <div class="autohide"><script src="http://s11.cnzz.com/stat.php?id=5082702&web_id=5082702" language="JavaScript" charset="gb2312"></script></div>
+  <script src="http://search.top.chinaz.com/js/GetTopRanked.js?url=ascottchina.com" language="javascript" type="text/javascript"></script> 
+
+    </form>    
+</body>
+</html>
