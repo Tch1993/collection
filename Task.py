@@ -4,6 +4,7 @@ import mythread, queue
 
 class Mytask:
 	Myqueue = mythread.Myqueue();
+	_modules = dict();
 	def __init__(self, task):
 		self.Myqueue.set(task);
 
@@ -19,7 +20,15 @@ class Mytask:
 		self.Myqueue.start(0, self.func);
 
 	def func(self, func):
-		exec('import Affair.' + func + ';Affair.' + func + '.' + func + '.run()');
+		# exec('import Affair.' + func + ';Affair.' + func + '.' + func + '.run()');
+		obj = self._modules.get(func);
+		if obj == None:
+			modulePath = 'Affair.'+ func;
+			__import__(modulePath);
+			eMod = sys.modules[modulePath];
+			obj = getattr(eMod, func);
+			self._modules[func] = obj;
+		obj.run();
 
 	# def MCI_weibo_url(self):
 	# 	import weibo;
